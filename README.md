@@ -1,9 +1,10 @@
 # CSI-IMD: A Semantically Significant Image Manipulation Dataset
 
-Yuwei Chen<sup>1</sup>, Ming-Ching Chang<sup>1</sup>, Mattias Kirchner<sup>2</sup>, Zhenfei Zhang<sup>1</sup>, Xin Li<sup>1</sup>, Arslan Basharat<sup>2</sup>, Anthony Hoogs<sup>2</sup>
-University at Albany, Albany, NY, USA<sup>1</sup>
+Yuwei Chen<sup>1</sup>, Ming-Ching Chang<sup>1</sup>, Mattias Kirchner<sup>2</sup>, Zhenfei Zhang<sup>1</sup>, Xin Li<sup>1</sup>, Arslan Basharat<sup>2</sup>, Anthony Hoogs<sup>2</sup> </br>
+University at Albany, Albany, NY, USA<sup>1</sup> </br>
 Kitware Inc, Clifton Park, NY, USA<sup>2</sup>
 </br>
+
 We introduce the Characterization of Semantic Impact for IMD (CSI-IMD) dataset (Accepted to WACV 2025), which focuses on localizing and evaluating the semantic impact of image manipulations to counter advanced generative techniques. Our evaluation of 10 state-of-the-art IMD and localization methods on CSI-IMD reveals that existing state of the art methods do not adapt well to unseen manipulation signatures. Unlike existing datasets, CSI-IMD provides additional semantically focused annotations beyond traditional manipulation masks, aiding in the development of new defensive strategies. The proposed dataset contains two sets. A gold standard set containing 1,000 manually filtered manipulated images containing all 6 annotation types. A expanded set that contains 500,000 semantically impactful manipulated imaged  generated through the automated pipeline below. Details of both the gold standard set and expanded set can be found in the summary section.
 
 Paper: (Link to be added after WACV 2025)
