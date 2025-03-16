@@ -49,10 +49,9 @@ We propose a new semantically focused image forensics task called the Semantic S
 ## Dataset Download
 The CSI-IMD dataset can be downloaded through the links below. If you have any questions, please send an email to [csiimd.dataset@gmail.com].
 
-**Gold Standard Set:**</br>
-Manipulated Images ([Link]([https://drive.google.com/file/d/1u1BZU6oaT_ffdL0RCzSTc51eTxmQ-NZS/view?usp=sharing](https://drive.google.com/drive/folders/1pgxykiWHOWtw6sP5DNi52nxV9ur3to9N?usp=sharing)))</br>
+**Gold Standard Set:** ([Link](https://drive.google.com/drive/folders/1JVX4BNqEW2gLa05qjJiMsghR6ysQMOmO?usp=sharing))</br>
 	
-**Expanded Set:** ([Link]([https://drive.google.com/file/d/1u1BZU6oaT_ffdL0RCzSTc51eTxmQ-NZS/view?usp=sharing](https://drive.google.com/file/d/1e4CAEjte3K-JjQgIq5Tihu9va3aEO1h8/view?usp=sharing)))</br>
+**Expanded Set:** ([Link](https://drive.google.com/file/d/1e4CAEjte3K-JjQgIq5Tihu9va3aEO1h8/view?usp=sharing))</br>
 ## License and Citation
 The CSI-IMD dataset is released only for academic research. Researchers from educational institutes are allowed to use this dataset freely for noncommercial purposes.
 
